@@ -1,4 +1,3 @@
-# myScript.sh
 #!/bin/bash
 
 # Update package information, ensure that APT works with the https method, and that CA certificates are installed.
